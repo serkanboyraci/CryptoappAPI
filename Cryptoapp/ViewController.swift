@@ -30,7 +30,7 @@ class ViewController: UIViewController {
      present(vc, animated: true)
     }
           
-      self.removeSpinner()
+      self.removeSpinner() // removing activityIndicator
   }
 }
 
